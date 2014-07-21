@@ -1,0 +1,6 @@
+{
+"pergunta": "Quem inventou o iPhone?",
+"respostas": ["Apple", "Microsoft", "Google", "Xiaomi"],
+"certa": 1,
+"dificuldade": 1
+}
